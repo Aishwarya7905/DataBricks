@@ -4,6 +4,6 @@
   "timeout_seconds": 1200,
   "max_retries": 3,
   "notebook_task": {
-    "notebook_path": "/Workspace/Users/your_username/Databricks"
+    "notebook_path": "/Workspace/Users/jsrivastava.115@gmail.com/Databricks"
   }
 }
